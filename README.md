@@ -1,6 +1,6 @@
 [![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)](https://rishavchanda.io)<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\AJAY KUMAR\Desktop\gif3.gif">
+<img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykumar-2976&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumar-2976" /> </p>
 
