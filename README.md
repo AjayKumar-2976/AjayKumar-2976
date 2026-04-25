@@ -1,6 +1,6 @@
 <!-- PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20MERN%20Developer%20|%20React.js%20Developer%20|%20Frontend%20Focused&descSize=16&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=%20MERN%20Developer%20|%20React.js%20Developer%20|%20Frontend%20Focused&descSize=16&descAlignY=65"/>
 </p>
 
 <!-- TYPING EFFECT -->
