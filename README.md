@@ -1,7 +1,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React.js+Developer;Frontend+Focused+Engineer;Building+Real-World+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React.js+Developer;Frontend+Focused+Engineer;Building+Real-World+Web+Apps;MERN+Developer;React.js+Developer;" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 💻 Full Stack MERN Developer with hands-on project experience  
 - ⚛️ Strong focus on **React.js & Frontend Development**  
 - 🔗 Experienced in building **REST APIs & scalable web apps**  
-- 🚀 Currently exploring **Backend with Django (Python)**  
+- 🚀 Currently exploring **Python**  
 - 🧠 Problem solver with a focus on clean & efficient code  
 
 ---
