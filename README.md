@@ -172,7 +172,7 @@ A full-stack inventory management system with advanced filtering and zero-lag UX
 const currentFocus = {
   deepening:  "Node.js · Express · REST API Design · System Design",
   building:   "More production-level full-stack projects",
-  exploring:  "Django · Python Backend Development",
+  exploring:  "Python",
   goal:       "Full Stack Developer role — contribute scalable, efficient solutions"
 };
 ```
