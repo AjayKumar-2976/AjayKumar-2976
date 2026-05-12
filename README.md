@@ -135,7 +135,7 @@ An advanced product search system with dynamic filtering and zero-lag UI updates
 🔧  Deepening backend — Node.js, Express, REST API design
 🏗️  Building more production-level full-stack projects
 💼  Preparing for Full Stack Developer roles
-🐍  Exploring Django for backend depth
+🐍  Exploring Python ,  Django for backend depth
 ```
 
 ---
