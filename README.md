@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-I'm a **Full Stack MERN Developer** who builds **production-grade web applications** — not just learning projects. I focus on clean React.js frontends, efficient REST API integration, and apps that actually solve real problems. Currently deepening backend expertise with **Django** to strengthen full-stack depth.
+I'm a **Full Stack MERN Developer** who builds **production-grade web applications** — not just learning projects. I focus on clean React.js frontends, efficient REST API integration, and apps that actually solve real problems. Currently deepening backend expertise with **Python,MySQL** to strengthen full-stack depth.
 
 ---
 
